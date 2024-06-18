@@ -1,0 +1,328 @@
+@media screen and (max-width:992px) {
+   #s1 .owl-nav,
+   #s2 .owl-nav{
+    display: none;
+   }
+  #s1 .owl-dots,
+  #s2 .owl-dots{
+    display: block;
+   }
+   #s1 .pro_img a img{
+	max-width: 183px;
+   }
+  
+
+}
+@media screen and (max-width:1199px) {
+ 
+   .pro_img a img{
+	max-width: 183px;
+   }
+   #s4 .owl-dots{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    left: 0;
+ }
+
+
+}
+@media screen and (max-width:1200px) {
+    .about_img{
+        max-width: 480px;
+    }
+    .testi1_box{
+        padding: 60px 45px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:991px) {
+    .about_img{
+        max-width: 290px;
+    }
+    
+}
+@media screen and (max-width:768px) {
+    .about_img{
+        max-width: 250px;
+    }
+    .about_text,
+    .info_box{
+        text-align: center;
+    }
+ 
+ }
+ @media screen and (max-width:576px) {
+    .about_img{
+        max-width: 360px;
+        text-align: center;
+    }
+    .info_box_icon_text{
+        justify-content: center;
+       }
+}
+@media screen and (max-width:375px) {
+   .hide{
+    display: none;
+   }
+   .about_img{
+    max-width: 270px;
+}
+.about_us_group{
+    padding: 0 20px;
+}
+
+}
+
+
+/* ================================================= */
+@media screen and (min-width:1400px) {
+    .testi1_box{
+        padding: 60px 45px;
+    }
+    .card-body{
+        padding: 34px 37px 45px 37px;
+      }
+}
+@media screen and (max-width:1399.5px) {
+    .block1{
+        height: 676px;
+        width: 670px;
+        padding: 0 15px;
+    } 
+    .block2{
+        height: 395px;
+        width: 470px;
+        padding: 0 15px;
+    }
+    .block3{
+        height: 250px;
+        width: 470px;
+        padding: 0 15px;
+    } 
+}
+@media screen and (max-width:1199.5px) {
+	.testi_items{
+		padding: 0 160px;
+	   }
+	.testi_box{
+		padding: 45px 30px;
+	} 
+    .block1{
+        height: 543.55px;
+        width: 538.74px;
+        padding: 0;
+    } 
+    .block2{
+        height: 316.2px;
+        width: 376.25px;
+        padding: 0;
+    }
+    .block3{
+        height: 200.13px;
+        width: 376.25px;
+        padding: 0;
+    }
+    #s4 .owl-dots{
+        position: absolute;
+        width: 100%;
+        bottom: 10px;
+        left: 0;
+     }
+     .food_title h2{
+        font-size: 45px;
+        margin-bottom: 20px;
+     }
+     .card-body{
+        padding: 25px 20px 30px 20px;
+      }
+	
+}
+@media screen and (min-width:768px) and (max-width:991.5px) {
+	.testi_items{
+		padding: 0 120px;
+	   }
+       .testi_box{
+		padding: 30px 15px;
+	} 
+    .block1{
+        height: 402.3px;
+        width: 398.74px;
+        padding: 0;
+    } 
+    .block2{
+        height: 232.16px;
+        width: 276.25px;
+        padding: 0;
+    }
+    .block3{
+        height: 146.94px;
+        width: 276.25px;
+        padding: 0;
+    }
+    .team_text{
+        display: none;
+    }
+    .team_hover{
+        left: 12%;
+        /* display: none; */
+        bottom: 10px;
+        opacity: 1;
+        visibility: visible;
+    }
+    #s4 .owl-dots{
+        position: absolute;
+        width: 100%;
+        bottom: 10px;
+        left: 0;
+     }
+     .food_title h2{
+        font-size: 35px;
+     }
+     #s6 .owl-nav{
+        display: none;
+     }
+     .testi1_box{
+        padding: 30px 15px;
+    }
+    .testi_q{
+        font-size: 16px;
+    }
+}
+@media screen and (min-width:576px) and (max-width:767.5px) {
+	.testi_items{
+		padding: 0 7.500px;
+	   }
+	   .imgg{
+		max-width: 36.36px;
+	} 
+	.testi_box{
+		padding: 30px 15px;
+	} 
+    .u_status{
+        text-align: center;
+    } 
+    .u_name{
+        margin-top: 10px !important;
+    }
+    .block1{
+        height: 296.36px;
+        width: 293.74px;
+        padding: 0;
+    } 
+    .block2{
+        height: 169.13px;
+        width: 201.25px;
+        padding: 0;
+    }
+    .block3{
+        height: 107.04px;
+        width: 201.25px;
+        padding: 0;
+    }
+    #s4 .owl-dots{
+        position: absolute;
+        width: 100%;
+        bottom: 10px;
+        left: 0;
+     }
+     .testi1_box{
+        padding: 30px 15px;
+    }
+    .testi_q{
+        font-size: 16px;
+    }
+   
+}
+@media screen and (max-width:575.5px) {
+	.testi_items{
+		padding: 0 0px;
+	   }
+	   .testi_box{
+		padding: 30px 15px;
+	} 
+    .u_status{
+        text-align: center;
+    } 
+    .u_name{
+        margin-top: 10px !important;
+    }
+    .block1{
+        height: 272.41px;
+        width: 270px;
+        margin-bottom: 30px;
+        padding: 0;
+    } 
+    .block2{
+        height: 226.91px;
+        width: 270px;
+        padding: 0;
+       
+    }
+    .block3{
+        height: 143.61px;
+        width: 270px;
+        padding: 0;
+        
+    }
+    #s3 .owl-nav{
+        display: none;
+    }
+    .team_hover_box{
+        width: 250px;
+        height: 118px;
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+    .team_hover{
+        left: 10%;
+        bottom: 10px;
+        opacity: 1;
+        visibility: visible;
+    }
+    .team_text{
+        display: none;
+
+    }
+    #s4 .owl-dots{
+        position: absolute;
+        width: 100%;
+        bottom: 10px;
+        left: 0;
+     }
+     .food_s{
+        padding-left: 15px;
+       }
+       #s6 .owl-nav{
+        display: none;
+     }
+   .classic_icon{
+    padding-left: 30px;
+    margin: 15px 0 15px 0;
+   }
+   .input_box::placeholder{
+    text-align: center;
+  }
+  .nav button{
+    font-size: 12px;
+  }
+  .about_items{
+    padding-left: 0px;
+  }
+  .testi1_box{
+    padding: 30px 15px;
+}
+.testi_q{
+    font-size: 16px;
+}
+.modification button
+{
+    padding: 0 10px;
+}
+#isotop{
+    padding: 50px 0;
+}
+.title_modern{
+    font-size: 120px;
+}
+}
+
